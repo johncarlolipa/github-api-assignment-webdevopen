@@ -1,0 +1,19 @@
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+#repoList {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.repoItem {
+    margin-bottom: 10px;
+}
+
+.repoItem a {
+    color: #0366d6;
+    text-decoration: none;
+}
